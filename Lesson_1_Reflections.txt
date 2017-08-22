@@ -1,0 +1,49 @@
+REFLECTION ON LESSON RE GIT AND GITHUB
+
+Windows has a tool for comparing versions of files and it is FC for file compare. This used by first saving the 2 files to one directory,
+then going to Command Prompt then using CD for change directory then FC filename1 filename2 . 
+
+The results are immediate. You can clearly see the sections that have been changed. 
+This helps with debugging where changes in a file create new problems or bugs.  
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    'diff' helps to identify changes to the files
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    by giving oyu piece of mind and confidence to boldly make changes to files 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    because you can make chages where it makes sense to
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Probably Google docs wants to force the user to save each update
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log shows the commit history while git diff shows the differences between two specific commits
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because you can always revert to a previous commit to restore previous code
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    to save my projects and to submit to Udacity for review
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+by allowing me to see where bugs were created and where changes were made.
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+because Google docs assume docs are separate due to the nature of the files being saved. Git does not assume this.
