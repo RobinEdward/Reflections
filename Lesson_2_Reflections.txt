@@ -1,5 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+
 You set up a new Git repository ready to accept new commits
 
 How is the staging area different from the working directory and the repository?
@@ -16,10 +17,16 @@ I don't know
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branches can be used to keep separate logical changes that would logically be kept separate. We saw examples of this with EASY version of the video game and the Italian version both of which would logically be kept separate from the maseter branch.
+
 How do the diagrams help you visualize the branch structure?
+
+To see the lineage or parent relationship behind each commit and to see where commits are not reachable from other commits.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?

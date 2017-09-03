@@ -1,5 +1,6 @@
 REFLECTION ON LESSON RE GIT AND GITHUB
 
+Adding new text just because.
 Windows has a tool for comparing versions of files and it is FC for file compare. This used by first saving the 2 files to one directory,
 then going to Command Prompt then using CD for change directory then FC filename1 filename2 . 
 
