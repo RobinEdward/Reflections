@@ -6,7 +6,7 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    When you complete a significat change.
+    When you complete a significat change you can keep control as to when changes get committed. The changes may be small or large but significant nonetheless. Basically to retain control over your commits.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
